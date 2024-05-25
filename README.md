@@ -13,7 +13,13 @@ To run this project, you need the following:
 ## Testing
 
 start testing with running this command :
-- [./gradlew updateDebugScreenshotTest]
+
+```bash
+      gradlew updateDebugScreenshotTest
+```
 
 validate your tests with running this command :
-- [./gradlew validateDebugScreenshotTest]
+
+  ```bash
+  /gradlew validateDebugScreenshotTest
+```
