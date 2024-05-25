@@ -15,11 +15,11 @@ To run this project, you need the following:
 start testing with running this command :
 
 ```bash
-      gradlew updateDebugScreenshotTest
+  ./gradlew updateDebugScreenshotTest
 ```
 
 validate your tests with running this command :
 
-  ```bash
-  /gradlew validateDebugScreenshotTest
+```bash
+  ./gradlew validateDebugScreenshotTest
 ```
